@@ -5,8 +5,6 @@
 
 ### About Me <picture style="margin-right: 10px;"><img src="https://github.com/Aurorp1g/Aurorp1g/raw/main/about_me.gif" width="40" alt="about me"></picture> 
 
-<img align="right" alt="GIF" src="https://github.com/Aurorp1g/Aurorp1g/raw/main/cartoon.webp" width="300" height="auto" />
-
 I'm a final-year Software Development student at ITLA, passionate about building
 real-world web applications and solutions that solve actual problems. Naturally curious
 by nature — I love challenging questions and I'm always looking to learn something new.
@@ -39,3 +37,5 @@ by nature — I love challenging questions and I'm always looking to learn somet
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
 <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"> 
 </span>
+
+<img align="right" alt="GIF" src="https://github.com/Aurorp1g/Aurorp1g/raw/main/cartoon.webp" width="300" height="auto" />
