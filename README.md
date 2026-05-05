@@ -17,7 +17,7 @@ by nature — I love challenging questions and I'm always looking to learn somet
 - ⚡ Fun facts: video games 🎮 · anime 📺 · books 📚 · exploring new places 🌍
 - 📫 Reach me at: **yeremishr151@gmail.com**
 
-<h2>Tech Stack <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25px"></h2>
+<h2><img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25px"> Tech Stack</h2>
 
 <img align="right" alt="GIF" src="https://github.com/Aurorp1g/Aurorp1g/raw/main/cartoon.webp" width="300" height="auto" />
 
@@ -53,7 +53,7 @@ by nature — I love challenging questions and I'm always looking to learn somet
 </div>
 
  
- <h2>GitHub Analytics <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;"></h2>
+ <h2><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 30px> GitHub Analytics </h2>
 
 
 
