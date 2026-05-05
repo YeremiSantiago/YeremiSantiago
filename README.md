@@ -20,4 +20,8 @@ by nature — I love challenging questions and I'm always looking to learn somet
 - 📫 Reach me at: **yeremishr151@gmail.com**
 
 <h2>🛠 Tech Stack</h2>
+<span>
 <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white">
+<img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">
+<img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white">
+</span>
