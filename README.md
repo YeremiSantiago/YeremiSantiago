@@ -3,7 +3,7 @@
 <h2> Hi, I'm Yeremi Santiago <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
 
 
-## 🧑‍💻 About Me
+<p>About Me <img align="right" alt="GIF" src="https://github.com/Aurorp1g/Aurorp1g/raw/main/cartoon.webp" width="300" height="auto" /> </p>
 
 I'm a final-year Software Development student at ITLA, passionate about building
 real-world web applications and solutions that solve actual problems. Naturally curious
