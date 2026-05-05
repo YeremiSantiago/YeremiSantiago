@@ -18,3 +18,5 @@ by nature — I love challenging questions and I'm always looking to learn somet
 - 🤝 Open to collaborate on interesting projects
 - ⚡ Fun facts: video games 🎮 · anime 📺 · books 📚 · exploring new places 🌍
 - 📫 Reach me at: **yeremishr151@gmail.com**
+
+<h2>🛠 Tech Stack</h2>
