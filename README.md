@@ -1,4 +1,4 @@
-<img src="./imgs/descarga.jpg" alt="imagen de un tren en la noche" width="100%" height="auto"/>
+<img src="./imgs/descarga.gif" alt="imagen de un tren en la noche" width="100%" height="auto"/>
 
 <h2> Hi, I'm Yeremi Santiago <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
 
