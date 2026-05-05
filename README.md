@@ -1,4 +1,4 @@
-<img href="./imgs/imgs/descarga.jpg">![descripción](./imgs/descarga.jpg)
+<img href="./imgs/imgs/descarga.jpg" rel="imagen de un tren en la noche">![descripción](./imgs/descarga.jpg)
 <!--
 **YeremiSantiago/YeremiSantiago** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
