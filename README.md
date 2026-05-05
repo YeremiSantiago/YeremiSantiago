@@ -55,8 +55,12 @@ by nature — I love challenging questions and I'm always looking to learn somet
  
  <h2><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 30px> GitHub Analytics </h2>
 
-
-
+<p align="center">
+<a href="https://github.com/YeremiSantiago">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=YeremiSantiago&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=YeremiSantiago&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
